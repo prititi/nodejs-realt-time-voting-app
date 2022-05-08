@@ -9,7 +9,7 @@
 
 ![image](./public/front-chart.png)
 
-> Super Simple JavaScript Websocket realt time voting app.
+> Super Simple JavaScript Websocket Realt Time Voting app.
 
 ### 📚 STACK
 - NodeJs
