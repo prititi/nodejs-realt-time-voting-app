@@ -1,4 +1,4 @@
-# 🗳️ <span style="color:magenta">NodeJs Real Time Voting App</span>
+# 🗳️ <span style="color:magenta">NodeJs WebSocket Real Time Voting App</span>
 
 
 ![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
@@ -9,7 +9,7 @@
 
 ![image](./public/front-chart.png)
 
-> Super Simple JavaScript realt time voting app.
+> Super Simple JavaScript Websocket realt time voting app.
 
 ### 📚 STACK
 - NodeJs
