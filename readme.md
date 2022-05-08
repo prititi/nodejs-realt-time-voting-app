@@ -33,7 +33,7 @@
 
 ### Video Guide Link
     
-[Video Guide]()
+[Video Guide](https://youtu.be/5VEbSbM5m3Q)
 
 ## License
 
